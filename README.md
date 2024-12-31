@@ -2,7 +2,7 @@
 
 <h2 align="left"># 💫 About Me:</h2>
 Hi 👋, I'm Dhiya Rakha Ardiyona
-A student of Information Technology Department (Business Information System)
+a student of Information Technology Department (Business Information System)
 
 <br>👨‍💻Currently learning about Web and Game Development<br>🧐Interested in Back End Developer and also Game Developer
 
