@@ -1,4 +1,4 @@
-<img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://i.pinimg.com/originals/81/97/63/819763d9c6b741f7a32ffee62d76db25.gif"/>
+![Me](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://i.pinimg.com/originals/81/97/63/819763d9c6b741f7a32ffee62d76db25.gif")
 
 <h2 align="left"># 💫 About Me:</h2>
 Hi 👋, I'm Dhiya Rakha Ardiyona
