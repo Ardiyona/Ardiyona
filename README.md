@@ -1,4 +1,4 @@
-![a](https://i.pinimg.com/originals/81/97/63/819763d9c6b741f7a32ffee62d76db25.gif)
+<img src="https://i.pinimg.com/originals/81/97/63/819763d9c6b741f7a32ffee62d76db25.gif" alt="gif" width="300">
 
 <h2 align="left"># 💫 About Me:</h2>
 Hi 👋, I'm Dhiya Rakha Ardiyona
