@@ -15,3 +15,7 @@ a student of Information Technology Department (Business Information System)
 ![](https://github-readme-stats.vercel.app/api?username=Ardiyona&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ardiyona&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ardiyona&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=solikhin0433&label=Profile%20views&color=0e75b6&style=flat" alt="solikhin0433" />
+</p>
