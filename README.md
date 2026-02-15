@@ -1,4 +1,7 @@
-<img src="MyPixelArt.png">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="MyPixelArt.png" width="200"/>
+  <img src="MyPixelArt2.png" width="200"/>
+</div>
 
 <h2 align="left"># 💫 About Me:</h2>
 Hi 👋, I'm Dhiya Rakha Ardiyona
@@ -17,5 +20,5 @@ a student of Information Technology Department (Business Information System)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ardiyona&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=solikhin0433&label=Profile%20views&color=0e75b6&style=flat" alt="solikhin0433" />
+  <img src="https://komarev.com/ghpvc/?username=Ardiyona&label=Profile%20views&color=0e75b6&style=flat" alt="Ardiyona" />
 </p>
