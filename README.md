@@ -1,8 +1,3 @@
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="MyPixelArt.png" width="200"/>
-  <img src="MyPixelArt2.png" width="200"/>
-</div>
-
 <h2 align="left"># 💫 About Me:</h2>
 Hi 👋, I'm Dhiya Rakha Ardiyona
 a student of Information Technology Department (Business Information System)
